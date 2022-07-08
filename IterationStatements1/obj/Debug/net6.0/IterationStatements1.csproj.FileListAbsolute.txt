@@ -1,0 +1,15 @@
+/Users/enmanueldiaz/Desktop/repos/IterationStatements1/IterationStatements1/bin/Debug/net6.0/IterationStatements1
+/Users/enmanueldiaz/Desktop/repos/IterationStatements1/IterationStatements1/bin/Debug/net6.0/IterationStatements1.deps.json
+/Users/enmanueldiaz/Desktop/repos/IterationStatements1/IterationStatements1/bin/Debug/net6.0/IterationStatements1.runtimeconfig.json
+/Users/enmanueldiaz/Desktop/repos/IterationStatements1/IterationStatements1/bin/Debug/net6.0/IterationStatements1.dll
+/Users/enmanueldiaz/Desktop/repos/IterationStatements1/IterationStatements1/bin/Debug/net6.0/IterationStatements1.pdb
+/Users/enmanueldiaz/Desktop/repos/IterationStatements1/IterationStatements1/obj/Debug/net6.0/IterationStatements1.csproj.AssemblyReference.cache
+/Users/enmanueldiaz/Desktop/repos/IterationStatements1/IterationStatements1/obj/Debug/net6.0/IterationStatements1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enmanueldiaz/Desktop/repos/IterationStatements1/IterationStatements1/obj/Debug/net6.0/IterationStatements1.AssemblyInfoInputs.cache
+/Users/enmanueldiaz/Desktop/repos/IterationStatements1/IterationStatements1/obj/Debug/net6.0/IterationStatements1.AssemblyInfo.cs
+/Users/enmanueldiaz/Desktop/repos/IterationStatements1/IterationStatements1/obj/Debug/net6.0/IterationStatements1.csproj.CoreCompileInputs.cache
+/Users/enmanueldiaz/Desktop/repos/IterationStatements1/IterationStatements1/obj/Debug/net6.0/IterationStatements1.dll
+/Users/enmanueldiaz/Desktop/repos/IterationStatements1/IterationStatements1/obj/Debug/net6.0/refint/IterationStatements1.dll
+/Users/enmanueldiaz/Desktop/repos/IterationStatements1/IterationStatements1/obj/Debug/net6.0/IterationStatements1.pdb
+/Users/enmanueldiaz/Desktop/repos/IterationStatements1/IterationStatements1/obj/Debug/net6.0/IterationStatements1.genruntimeconfig.cache
+/Users/enmanueldiaz/Desktop/repos/IterationStatements1/IterationStatements1/obj/Debug/net6.0/ref/IterationStatements1.dll
